@@ -1,0 +1,61 @@
+#EXTM3U list-autor="© http://ProxyTV.ru"
+#EXTINF:-1 tvch-id="9005" group-title="© http://ProxyTV.ru",ПЕРВЫЙ КАНАЛ HD
+http://109.226.88.189:4022/udp/232.0.1.20:1234
+#EXTINF:-1 tvch-id="9009" group-title="© http://ProxyTV.ru",РОССИЯ 1 HD
+http://109.226.88.189:4022/udp/232.0.1.57:1234
+#EXTINF:-1 tvch-id="9025" group-title="© http://ProxyTV.ru",МАТЧ! HD
+http://109.226.88.189:4022/udp/232.0.2.63:1234
+#EXTINF:-1 tvch-id="9029" group-title="© http://ProxyTV.ru",НТВ
+http://109.226.88.189:4022/udp/232.0.3.4:1234
+#EXTINF:-1 tvch-id="9032" group-title="© http://ProxyTV.ru",КАРУСЕЛЬ
+http://109.226.88.189:4022/udp/232.0.3.8:1234
+#EXTINF:-1 tvch-id="9033" group-title="© http://ProxyTV.ru",ОТР
+http://109.226.88.189:4022/udp/232.0.3.9:1234
+#EXTINF:-1 tvch-id="9034" group-title="© http://ProxyTV.ru",ТВЦ
+http://109.226.88.189:4022/udp/232.0.3.10:1234
+#EXTINF:-1 tvch-id="9035" group-title="© http://ProxyTV.ru",РЕН ТВ
+http://109.226.88.189:4022/udp/232.0.3.11:1234
+#EXTINF:-1 tvch-id="9036" group-title="© http://ProxyTV.ru",СПАС
+http://109.226.88.189:4022/udp/232.0.3.12:1234
+#EXTINF:-1 tvch-id="9037" group-title="© http://ProxyTV.ru",СТС
+http://109.226.88.189:4022/udp/232.0.3.13:1234
+#EXTINF:-1 tvch-id="9038" group-title="© http://ProxyTV.ru",ДОМАШНИЙ
+http://109.226.88.189:4022/udp/232.0.3.14:1234
+#EXTINF:-1 tvch-id="9039" group-title="© http://ProxyTV.ru",ПЯТНИЦА
+http://109.226.88.189:4022/udp/232.0.3.16:1234
+#EXTINF:-1 tvch-id="9040" group-title="© http://ProxyTV.ru",ЗВЕЗДА
+http://109.226.88.189:4022/udp/232.0.3.17:1234
+#EXTINF:-1 tvch-id="9041" group-title="© http://ProxyTV.ru",МИР
+http://109.226.88.189:4022/udp/232.0.3.18:1234
+#EXTINF:-1 tvch-id="9042" group-title="© http://ProxyTV.ru",ТНТ
+http://109.226.88.189:4022/udp/232.0.3.19:1234
+#EXTINF:-1 tvch-id="9043" group-title="© http://ProxyTV.ru",МУЗ ТВ
+http://109.226.88.189:4022/udp/232.0.3.20:1234
+#EXTINF:-1 tvch-id="6014" group-title="© http://ProxyTV.ru",МАТЧ! ПРЕМЬЕР HD
+http://178.163.72.70:4022/udp/234.0.0.99:2000
+#EXTINF:-1 tvch-id="6043" group-title="© http://ProxyTV.ru",ТНТ4
+http://178.163.72.70:4022/udp/234.0.0.181:2000
+#EXTINF:-1 tvch-id="6044" group-title="© http://ProxyTV.ru",FOX
+http://178.163.72.70:4022/udp/234.0.0.184:2000
+#EXTINF:-1 tvch-id="6058" group-title="© http://ProxyTV.ru",DISNEY CHANNEL
+http://178.163.72.70:4022/udp/234.0.0.198:2000
+#EXTINF:-1 tvch-id="6068" group-title="© http://ProxyTV.ru",A-МEDIA PREMIUM
+http://178.163.72.70:4022/udp/234.0.0.209:2000
+#EXTINF:-1 tvch-id="6077" group-title="© http://ProxyTV.ru",ЧЕ
+http://178.163.72.70:4022/udp/234.0.0.218:2000
+#EXTINF:-1 tvch-id="6089" group-title="© http://ProxyTV.ru",Ю
+http://178.163.72.70:4022/udp/234.0.0.229:2000
+#EXTINF:-1 tvch-id="6103" group-title="© http://ProxyTV.ru",2X2
+http://178.163.72.70:4022/udp/234.0.0.244:2000
+#EXTINF:-1 tvch-id="121" group-title="© http://ProxyTV.ru",МАТЧ! АРЕНА
+http://109.248.65.147:4022/udp/239.195.1.68:1234
+#EXTINF:-1 tvch-id="170" group-title="© http://ProxyTV.ru",МАТЧ! АРЕНА HD
+http://109.248.93.72:3371/udp/239.195.5.203:1234
+#EXTINF:-1 tvch-id="3186" group-title="© http://ProxyTV.ru",МАТЧ! АРЕНА HD
+http://5.129.139.154:81/udp/239.1.18.1:1234
+#EXTINF:-1 tvch-id="5048" group-title="© http://ProxyTV.ru",МАТЧ! АРЕНА
+http://89.208.197.142:5050/udp/224.0.42.54:5000
+#EXTINF:-1 tvch-id="7081" group-title="© http://ProxyTV.ru",МАТЧ! АРЕНА
+http://94.251.120.43:81/udp/239.54.7.85:1224
+#EXTINF:-1 tvch-id="14120" group-title="© http://ProxyTV.ru",МАТЧ! АРЕНА HD
+http://194.28.152.173:81/udp/225.0.2.48:1234
